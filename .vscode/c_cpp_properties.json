@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\MinGW\\bin\\g++.exe",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}",
+                    "C:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++"
+                ]
+            },
+            "compileCommands": "C:\\MinGW\\bin\\g++.exe",
+            "windowsSdkVersion": "10.0.16299.0",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
